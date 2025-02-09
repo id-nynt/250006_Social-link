@@ -98,7 +98,9 @@ ul {
     border-radius: 8px;
 }
 
-.social a:hover {
+/*Effect
+------------------------------*/
+.social a:hover,  .social a:focus , .social a:focus-visible {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
     border-radius: 8px;
